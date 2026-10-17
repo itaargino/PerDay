@@ -1,6 +1,6 @@
 # PerDay
 
-Journal para iPhone, iPad e Mac Catalyst, feito em SwiftUI e SwiftData.
+Journal para iPhone, iPad e Mac Catalyst(Em teste), feito em SwiftUI e SwiftData.
 
 ## Verificar o projeto
 
